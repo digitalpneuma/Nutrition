@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriCalm",
+  "description": "A serene, intelligent nutrition tracker that analyzes food via text or image using Gemini AI, providing beautiful visualizations and historical insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
